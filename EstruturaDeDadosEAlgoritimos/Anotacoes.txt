@@ -1,0 +1,11 @@
+Tipos de estruturas de dados:
+  Vetores e Matrizes
+  Registro
+  Lista
+  Pilha
+  Fila
+  Árvore
+  Tabela Hash
+  Grafos
+
+registro: definido por diferentes campos com diferentes tipos de dados. Utilizado para agrupar diferentes dados em uma única variável.
