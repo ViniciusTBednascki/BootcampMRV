@@ -1,0 +1,7 @@
+ECMAScript Error: Ocorrem em tempo de execução.
+DOMException: Erros relacionados ao DOM.
+
+O objeto Error:
+  new Error(mensagem): cria um novo erro com a mensagem informada.
+  As outras pripriedades do objeto Error também podem ser alteradas.
+    ex: MeuErro.name = "Novo nome" - altera o nome do erro.
