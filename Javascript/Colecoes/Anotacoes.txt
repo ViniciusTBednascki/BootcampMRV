@@ -1,0 +1,26 @@
+Map:
+  - Uma coleção de arrays no formato [chave, valor]
+  - Pode ser iterado por um loop for..of
+
+  Map.set(chave, valor): adiciona um novo valor ao Map
+  Map.get(chave): retorna o valor da chave se está existir no map
+  Map.delete(chave): deleta a chave e seu valor associado do map
+
+  Map vs Object:
+    - Maps podem ter chave de qualquer tipo
+    - Maps possuem a propriedade length
+    - Maps são mais fáceis de iterar
+    - Utilizado quando o valor das chaves é desconehcido
+    - Os valores tem o mesmo tipo
+
+Set:
+  - São estruturas que armazenam apenas valores únicos
+
+  Set.add(valor): para adicionar um valor
+  Set.has(valor): para consultar se há o valor
+  Set.delete(valor): para deletar o valor
+
+  Set vs Array:
+    - O set possui valores únicos
+    - Em vez de length, o números de valores é obtido através da propriedade size
+    - Não possui os métodos map, filter, reduce, etc.
